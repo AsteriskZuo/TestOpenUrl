@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "testopenurl",
+    "slug": "testopenurl",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.anonymous.testopenurl"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.testopenurl"
+    }
+  }
+}
